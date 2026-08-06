@@ -1,6 +1,6 @@
-# Hi, I'm Karen Mantilla 👋
+# Hi, I'm Karen Mantilla Urquijo👋
 
-**Freelance QA Engineer** · Manual Testing · Test Automation · API Testing · Mobile Testing
+**QA Engineer** · Manual Testing · Test Automation · API Testing · Mobile Testing · IA builder · EN|ES|PT
 
 I help product teams ship software with confidence — catching bugs before they reach production and building automation suites that scale with the product.
 
@@ -10,12 +10,12 @@ I help product teams ship software with confidence — catching bugs before they
 
 | Area | Tools |
 |---|---|
-| **E2E Automation** | Playwright (Python), Selenium |
+| **E2E Automation** | Playwright, Selenium |
 | **API Testing** | Postman, pytest + requests, Karate |
 | **Mobile Testing** | Manual testing Android / iOS |
 | **Integration Testing** | Cross-layer validation, service contract testing |
 | **CI/CD** | GitHub Actions, GitHub Pages reports |
-| **Language** | Python |
+| **Language** | Python | JavaScript | Typscrit | SQL
 | **AI-assisted QA** | Claude Code, GitHub Copilot |
 
 ---
@@ -46,4 +46,4 @@ Migration of a Selenium suite to Playwright: code comparison, gradual migration 
 
 ## Availability
 
-✅ Open to freelance projects · [karenemu20@gmail.com](mailto:karenemu20@gmail.com) · [LinkedIn](https://linkedin.com/in/karen-m-urquijo)
+✅ Open to freelance projects or contractor positions · [karenemu20@gmail.com](mailto:karenemu20@gmail.com) · [LinkedIn](https://linkedin.com/in/karen-m-urquijo)
